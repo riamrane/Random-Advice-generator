@@ -7,7 +7,7 @@
 
 .app{
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('./images/bg9.jpg');
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url('./images/bg.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
